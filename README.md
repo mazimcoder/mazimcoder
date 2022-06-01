@@ -1,7 +1,7 @@
 <br>
-<h1>Welcome! Still working on it!💻</h1>
+<h1>Welcome! Still working on it!</h1>
 <br>
-<img src="giphy-downsized.gif" autoplay title="monkey">
+<img src="giphy-downsized.gif" type="image/gif" auto title="monkey">
 <br>
 <!--
 **mazimcoder/mazimcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
