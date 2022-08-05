@@ -12,5 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=PYTHON)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
 ![C](https://img.shields.io/badge/-C-444444?style=flat&logo=C)
+![C#](https://img.shields.io/badge/-C#-444444?style=flat&logo=CSHARP)
 ![Docker](https://img.shields.io/badge/-Docker-444444?style=flat&logo=DOCKER)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=Linux)
+
