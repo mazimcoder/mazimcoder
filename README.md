@@ -9,4 +9,5 @@
 ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
 ![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=scss)
 ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-PYTHON-444444?style=flat&logo=PYTHON)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
