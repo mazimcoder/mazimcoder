@@ -3,7 +3,7 @@
 <br>
 <a><img href="https://github.com/mazimcoder" src="https://github.com/mazimcoder/mazimcoder/blob/main/giphy-downsized.gif" type="image/gif" alt="monkey"></a>
 <br>
-
+![TypeScript](https://img.shields.io/badge/-typescript-444444?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
 ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
